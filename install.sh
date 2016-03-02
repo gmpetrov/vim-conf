@@ -22,4 +22,8 @@ git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 mv ~/.vimrc ~/.vimrc.backup
 
 # Download conf files
+wget -O ~/.vimrc https://raw.githubusercontent.com/gmpetrov/dotfiles/master/.vimrc
+wget -O ~/.vim/plugin/settings/plugin-airline.vim https://raw.githubusercontent.com/gmpetrov/dotfiles/master/settings/plugin-airline.vim
+wget -O ~/.vim/plugin/settings/plugin-utilsnips.vim https://raw.githubusercontent.com/gmpetrov/dotfiles/master/settings/plugin-utilsnips.vim
+wget -O ~/.vim/plugin/settings/plugin-vim-go.vim https://raw.githubusercontent.com/gmpetrov/dotfiles/master/settings/plugin-vim-go.vim
 
