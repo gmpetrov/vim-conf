@@ -18,6 +18,7 @@ git clone https://github.com/SirVer/ultisnips.git ~/.vim/bundle/ultisnips
 git clone https://github.com/fatih/vim-go.git ~/.vim/bundle/vim-go
 git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 git clone https://github.com/scrooloose/syntastic.git ~/.vim/bundle/syntastic
+git clone https://github.com/tpope/vim-commentary.git ~/.vim/bundle/vim-commentary
 
 # remove current .vimrc
 mv ~/.vimrc ~/.vimrc.backup
