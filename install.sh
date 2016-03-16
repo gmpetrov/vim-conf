@@ -13,14 +13,15 @@ git clone https://github.com/vim-airline/vim-airline ~/.vim/bundle/vim-airline
 git clone https://github.com/majutsushi/tagbar.git ~/.vim/bundle/tagbar
 git clone https://github.com/vim-airline/vim-airline-themes ~/.vim/bundle/vim-airline-themes
 git clone https://github.com/terryma/vim-multiple-cursors.git ~/.vim/bundle/vim-multiple-cursors
-git clone https://github.com/Shougo/neocomplete.vim.git ~/.vim/bundle/neocomplete
 git clone https://github.com/SirVer/ultisnips.git ~/.vim/bundle/ultisnips
 git clone https://github.com/fatih/vim-go.git ~/.vim/bundle/vim-go
 git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 git clone https://github.com/scrooloose/syntastic.git ~/.vim/bundle/syntastic
 git clone https://github.com/tpope/vim-commentary.git ~/.vim/bundle/vim-commentary
+git clone https://github.com/honza/vim-snippets.git ~/.vim/bundle/vim-snippets
+git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/YouCompleteMe
 
-# remove current .vimrc
+# backup current .vimrc
 mv ~/.vimrc ~/.vimrc.backup
 
 # Download conf files
