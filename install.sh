@@ -24,6 +24,7 @@ git clone https://github.com/Chiel92/vim-autoformat.git ~/.vim/bundle/vim-autofo
 git clone https://github.com/altercation/vim-colors-solarized.git ~/.vim/bundle/vim-colors-solarized
 git clone https://github.com/tpope/vim-obsession.git ~/.vim/bundle/vim-obsession
 git clone https://github.com/tpope/vim-surround.git ~/.vim/bundle/vim-surround.git
+git clone https://github.com/Raimondi/delimitMate.git ~/.vim/bundle/delimitMate.git
 
 
 # backup current .vimrc
