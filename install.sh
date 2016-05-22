@@ -37,3 +37,12 @@ wget -O ~/.vim/plugin/settings/plugin-airline.vim https://raw.githubusercontent.
 wget -O ~/.vim/plugin/settings/plugin-utilsnips.vim https://raw.githubusercontent.com/gmpetrov/dotfiles/master/settings/plugin-utilsnips.vim
 wget -O ~/.vim/plugin/settings/plugin-vim-go.vim https://raw.githubusercontent.com/gmpetrov/dotfiles/master/settings/plugin-vim-go.vim
 
+# Optional utils for plugins
+
+## Formating
+
+# Python
+# sudo pip install yapf
+
+# JS, JSON, HTML, CSS
+# npm -g install js-beautify
