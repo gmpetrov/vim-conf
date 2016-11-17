@@ -19,7 +19,7 @@ git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 git clone https://github.com/scrooloose/syntastic.git ~/.vim/bundle/syntastic
 git clone https://github.com/tpope/vim-commentary.git ~/.vim/bundle/vim-commentary
 git clone https://github.com/honza/vim-snippets.git ~/.vim/bundle/vim-snippets
-git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/YouCompleteMe
+# git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/YouCompleteMe
 git clone https://github.com/Chiel92/vim-autoformat.git ~/.vim/bundle/vim-autoformat
 git clone https://github.com/altercation/vim-colors-solarized.git ~/.vim/bundle/vim-colors-solarized
 git clone https://github.com/tpope/vim-obsession.git ~/.vim/bundle/vim-obsession
